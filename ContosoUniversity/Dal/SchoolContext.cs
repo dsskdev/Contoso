@@ -10,7 +10,7 @@ namespace ContosoUniversity.Dal
 {
     public class SchoolContext : DbContext
     {
-        public SchoolContext() : base("SchoolScontext")
+        public SchoolContext() : base("SchoolContext")
         {
         }
 
